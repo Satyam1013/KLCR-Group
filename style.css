@@ -650,7 +650,6 @@ li.social-links a {
     overflow: hidden;
     position: relative;
     background-position: center center;
-    vertical-align: sub;
     width: 100%;
     z-index: 2;
 }
@@ -2041,7 +2040,6 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
 }
 
 .footer {
@@ -2308,7 +2306,6 @@ select.mobile-device {
     color: #fcbf02;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
 }
 
 .stat-wrap p {
@@ -2317,7 +2314,6 @@ select.mobile-device {
     margin: 0;
     font-weight: 700;
     padding: 4px 0 0;
-    line-height: 1 !important:
 }
 
 #preloader {
